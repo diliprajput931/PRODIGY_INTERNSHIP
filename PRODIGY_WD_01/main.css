@@ -45,14 +45,14 @@ body,html{
 .nav .btt1{
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     width: 100%;
     display: block;
 }
 .nav .btt2{
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     width: 100%;
     display: block;
 }
@@ -84,7 +84,7 @@ body,html{
 .heading .headingg{
     border: 1px solid black;
     justify-content: center;
-    font-size: 70px;
+    font-size: 50px;
     display: flex;
 }
 .hh2{
@@ -180,7 +180,7 @@ color: rgb(98, 98, 240);
 .heading .subheading{
     border: 1px solid black;
     justify-content: left;
-    font-size: 70px;
+    font-size: 60px;
     display: flex;
     padding-left: 20px;
 }
